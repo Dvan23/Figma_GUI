@@ -1,0 +1,10 @@
+{
+  "name": "figmaexport-dark_mode_gui-page_1-export_to_code_errors_-_delete_me_anytime",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}
